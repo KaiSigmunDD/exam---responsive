@@ -1,0 +1,327 @@
+
+
+
+
+
+@media(max-width: 1180px){
+    .container{
+      width: 1040px;  
+    }
+    
+
+}
+
+
+@media(max-width: 1080px){
+    .container{
+      width: 940px;  
+    }
+    
+
+
+    .nav-butt{
+        font-size: 10px;
+        padding: 4px 8px;
+      
+    }
+
+    .frame{
+        width: 75%;
+        height: 240px;
+    }
+
+    .services-item{
+        width: 45%;
+    }
+
+    .services-title{
+        font-size: 30px;
+
+    }
+    .services-info{
+        font-size: 14px;
+    }
+
+}
+
+
+
+
+@media(max-width: 980px){
+    .container{
+      width: 840px;  
+    }
+    
+
+
+
+    .footer-link{
+        font-size: 16px;
+    }
+
+    .sub-link{
+        font-size: 13px;
+    }
+
+    .frame{
+        width: 80%;
+        height: 220px;
+    }
+
+    .work-link{
+        padding: 4px 8px;
+        font-size: 15px;
+
+    }
+
+   
+    
+  
+
+}
+
+
+
+
+@media(max-width: 880px){
+    .container{
+      width: 740px;  
+    }
+    
+
+
+
+
+    .nav-butt{
+        display: none;
+
+    }
+
+    .box-left-title {
+        font-size: 20px;
+    
+    }
+    .box-left-text {
+        font-size: 15px
+    
+    }
+    .box-left-link {
+   
+    }
+
+    .button{
+   
+        font-size: 13px;
+        margin: 7px 0 12px 0;
+        padding: 4px;
+        
+    
+        
+      }
+      .form-box{
+        width: 60%;
+    }
+
+}
+
+
+@media(max-width: 780px){
+    .container{
+      width: 640px;  
+    }
+    
+
+
+    .nav-item {
+        margin-right: 15px;
+    }
+    .nav-link{
+        font-size: 13px;
+    }
+
+
+   
+
+
+    .frame{
+        width: 60%;
+        height: 220px;
+    }
+
+
+    .services-item{
+        width: 45%;
+    }
+    .service-img1{
+        width: 150px;
+    }
+
+    .footer-item {
+    
+      
+        margin-right: 50px;
+      
+    }
+    .form-box{
+        width: 78%;
+    }
+    .form-box{
+        width: 75%;
+    }
+}
+
+
+
+
+
+/* HAMBURGER */
+
+
+@media(max-width: 680px){
+    .container{
+      width: 540px;  
+    }
+    
+    .main .container{
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+
+    .iframe{
+        width: 90%;
+        height: 250px;
+    }
+
+    .nav-list{
+        display: none;
+    }
+
+    .main-box-left{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 90%;
+        flex-direction: column;
+        margin-top: 20px;
+    }
+
+    .main-box-right{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 90%;
+    }
+
+    .box-left-title{
+        text-align: center;
+    }
+    .box-left-text{
+        text-align: center;
+    }
+
+    .form-box{
+        width: 75%;
+    }
+
+
+    .footer-item {
+    
+      
+        margin-right: 10px;
+      
+    }
+
+
+    .box-title {
+        font-size: 16px;
+
+    }
+    .box-info {
+        font-size: 12px;
+    }
+
+    .hamburger{
+        visibility: visible;
+        margin-left: auto;
+     }
+}
+
+
+
+
+
+
+
+@media(max-width: 580px){
+    .container{
+      width: 440px;  
+    }
+    
+
+
+
+    .services-item{
+        width: 80%;
+    }
+
+    .service-box{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+
+    .work-item{
+        flex-direction: column;
+        padding-bottom: 10px;
+        border-bottom: 2px solid rgba(66, 70, 66, 0.226);
+        
+    }
+
+    .work-img{
+        margin: 3px 0px;
+    }
+
+    .box-title {
+        text-align: center;
+    }
+    .box-info {
+        text-align: center;
+    }
+
+
+    .footer-list{
+     flex-direction: column-reverse;
+     align-items: center;
+     justify-content: center;
+
+    }
+    .footer-item{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+
+}
+
+
+@media(max-width: 480px){
+    .container{
+      width: 340px;  
+    }
+    
+
+}
+
+
+
+
+
+
+
+
